@@ -1,0 +1,1384 @@
+[
+  {
+    "furnitureID": 369101,
+    "monsterID": 28220502,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "KOLKDBGBDPA": "CAT_ENTITY_TOUCH",
+    "PKPFPEPLCHC": [
+      "28220521",
+      "SmallCat",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369102,
+    "monsterID": 28220401,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369103,
+    "monsterID": 28220301,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369104,
+    "monsterID": 28230101,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369105,
+    "monsterID": 28220402,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369106,
+    "monsterID": 28220403,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369107,
+    "monsterID": 28220404,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369108,
+    "monsterID": 28220504,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "KOLKDBGBDPA": "CAT_ENTITY_TOUCH",
+    "PKPFPEPLCHC": [
+      "28220522",
+      "SmallCat",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369109,
+    "monsterID": 28220505,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "KOLKDBGBDPA": "CAT_ENTITY_TOUCH",
+    "PKPFPEPLCHC": [
+      "28220523",
+      "SmallCat",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369110,
+    "monsterID": 28220506,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "KOLKDBGBDPA": "CAT_ENTITY_TOUCH",
+    "PKPFPEPLCHC": [
+      "28220524",
+      "SmallCat",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379001,
+    "monsterID": 28240201,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379002,
+    "monsterID": 28240202,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379003,
+    "monsterID": 28240203,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379004,
+    "monsterID": 28240204,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379005,
+    "monsterID": 28240205,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379006,
+    "monsterID": 28240206,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379007,
+    "monsterID": 28240301,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379008,
+    "monsterID": 28240302,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379009,
+    "monsterID": 28240303,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379010,
+    "monsterID": 28240304,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379011,
+    "monsterID": 28240305,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379012,
+    "monsterID": 28240401,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379013,
+    "monsterID": 28240402,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379014,
+    "monsterID": 28240501,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379015,
+    "monsterID": 28240502,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379016,
+    "monsterID": 28240503,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379017,
+    "monsterID": 28240504,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379018,
+    "monsterID": 28240505,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379019,
+    "monsterID": 28240506,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379020,
+    "monsterID": 28240601,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379021,
+    "monsterID": 28240602,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379022,
+    "monsterID": 28240701,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379023,
+    "monsterID": 28240702,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379024,
+    "monsterID": 28240801,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379025,
+    "monsterID": 28240802,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379026,
+    "monsterID": 28240803,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379027,
+    "monsterID": 28240804,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379028,
+    "monsterID": 28240901,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379029,
+    "monsterID": 28240902,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379030,
+    "monsterID": 28240903,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379031,
+    "monsterID": 28241001,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379032,
+    "monsterID": 28241002,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379033,
+    "monsterID": 28241101,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379034,
+    "monsterID": 28241102,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379035,
+    "monsterID": 28241103,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379036,
+    "monsterID": 28241104,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379037,
+    "monsterID": 28241105,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 379038,
+    "monsterID": 28241003,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369111,
+    "monsterID": 28220901,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369112,
+    "monsterID": 28220303,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369113,
+    "monsterID": 28210101,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369114,
+    "monsterID": 28210102,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369115,
+    "monsterID": 28210103,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369116,
+    "monsterID": 28210104,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369117,
+    "monsterID": 28210105,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369118,
+    "monsterID": 28220101,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369119,
+    "monsterID": 28220102,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369120,
+    "monsterID": 28220201,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369121,
+    "monsterID": 28220501,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "KOLKDBGBDPA": "CAT_ENTITY_TOUCH",
+    "PKPFPEPLCHC": [
+      "28220525",
+      "SmallCat",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369122,
+    "monsterID": 28220503,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "KOLKDBGBDPA": "CAT_ENTITY_TOUCH",
+    "PKPFPEPLCHC": [
+      "28220526",
+      "SmallCat",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369123,
+    "monsterID": 28220601,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369124,
+    "monsterID": 28220602,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369125,
+    "monsterID": 28220603,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369126,
+    "monsterID": 28220701,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369127,
+    "monsterID": 28230102,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369128,
+    "monsterID": 28250101,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369129,
+    "monsterID": 28250102,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369130,
+    "monsterID": 28250103,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369131,
+    "monsterID": 28250104,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369132,
+    "monsterID": 28210201,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369133,
+    "monsterID": 28210202,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369134,
+    "monsterID": 28210203,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369135,
+    "monsterID": 28210204,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369136,
+    "monsterID": 28210205,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369137,
+    "monsterID": 28210206,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369138,
+    "monsterID": 28210207,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369139,
+    "monsterID": 28210301,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369140,
+    "monsterID": 28210302,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369141,
+    "monsterID": 28210303,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369142,
+    "monsterID": 28210401,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369143,
+    "monsterID": 28210403,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369144,
+    "monsterID": 28230301,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369145,
+    "monsterID": 28230302,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369146,
+    "monsterID": 28230303,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369147,
+    "monsterID": 28230304,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369148,
+    "monsterID": 28230305,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369149,
+    "monsterID": 28230306,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369150,
+    "monsterID": 28230401,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369151,
+    "monsterID": 28230402,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369152,
+    "monsterID": 28230403,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369153,
+    "monsterID": 28230404,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369154,
+    "monsterID": 28210402,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369155,
+    "monsterID": 28250105,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369156,
+    "monsterID": 28250301,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369157,
+    "monsterID": 28220605,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369158,
+    "monsterID": 28250106,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369159,
+    "monsterID": 28210304,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369160,
+    "monsterID": 28210208,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369161,
+    "monsterID": 28220314,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369162,
+    "monsterID": 28220313,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369163,
+    "monsterID": 28230313,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369164,
+    "monsterID": 28230104,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369165,
+    "monsterID": 28220604,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369166,
+    "monsterID": 28250401,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369167,
+    "monsterID": 28210404,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369168,
+    "monsterID": 28220108,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369169,
+    "monsterID": 28220405,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369170,
+    "monsterID": 28220406,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369171,
+    "monsterID": 28220407,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369172,
+    "monsterID": 28250107,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369173,
+    "monsterID": 28230701,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369174,
+    "monsterID": 28230702,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369175,
+    "monsterID": 28230703,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369176,
+    "monsterID": 28230704,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369177,
+    "monsterID": 28230705,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369178,
+    "monsterID": 28230706,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369179,
+    "monsterID": 28230707,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369180,
+    "monsterID": 28230708,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369181,
+    "monsterID": 28230601,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369182,
+    "monsterID": 28230602,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369183,
+    "monsterID": 28250701,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369184,
+    "monsterID": 28230603,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369185,
+    "monsterID": 28250302,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369186,
+    "monsterID": 28222101,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "PKPFPEPLCHC": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "furnitureID": 369187,
+    "monsterID": 28220507,
+    "LMOAKMLHIEJ": 1,
+    "JNNAELCGIHC": 5,
+    "KOLKDBGBDPA": "CAT_ENTITY_TOUCH",
+    "PKPFPEPLCHC": [
+      "28220527",
+      "BigCat",
+      ""
+    ]
+  }
+]
